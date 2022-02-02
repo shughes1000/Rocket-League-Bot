@@ -4,4 +4,4 @@ The goal I initially set was to beat the Psyonix All-Star Bots (the best bots th
 
 Due to the nature of the project, I plan on improving the bot until I discover a new approach that warrants creating a new bot altogether. Until then, I will continue to update my code.
 
-This has been one of my favorite projects because I am a big fan of the video game Rocket League and I also love to code. It has been a pleasure to unite the two interests. 
+This has been one of my favorite projects because I am a big fan of Rocket League and I also love to code. It has been a pleasure to unite the two interests. 
